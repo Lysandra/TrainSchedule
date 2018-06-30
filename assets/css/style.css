@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Rye');
+/* 
+body {
+    background-color: lightgrey;
+} */
+
+
+#main-screen {
+    font-family: 'Rye', cursive;
+}
+/* 
+#current-train-schedule {
+    background-color: white;
+}
+
+#add-train {
+    background-color: white;
+} */
+
+.card-header {
+    background-color: black;
+    color: white;
+    margin-left: -16px;
+    margin-right: -16px;
+    margin-top: -2px;
+}
+
+
+#add-train {
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+#current-train-schedule {
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+#main-screen {
+    background: url("../images/lake-eola.jpg");
+    background-size: cover;
+}
+
+#label {
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+h1 {
+    margin-top: -35px;
+    margin-bottom: 75px;
+}
